@@ -1,0 +1,21 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@koozaki/romaji-conv': ^2.0.20
+
+dependencies:
+  '@koozaki/romaji-conv': 2.0.20
+
+packages:
+
+  /@koozaki/romaji-conv/2.0.20:
+    resolution: {integrity: sha512-LbmMr866gXLCeXu2evGjHzt2rHD6moOF0Iedv4RPNsspXB4nZYZkP6SDNTRa9MY9Uzb/2AAU8iS/CCPBCkSJEQ==}
+    hasBin: true
+    dependencies:
+      commander: 9.5.0
+    dev: false
+
+  /commander/9.5.0:
+    resolution: {integrity: sha512-KRs7WVDKg86PWiuAqhDrAQnTXZKraVcCc6vFdL14qrZ/DcWwuRo7VoiYXalXO7S5GKpqYiVEwCbgFDfxNHKJBQ==}
+    engines: {node: ^12.20.0 || >=14}
+    dev: false
